@@ -1,25 +1,25 @@
 # 19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function
 
 
-## Aim: To write a C# program to reverse a number using recursive function.
+# Aim: To write a C# program to reverse a number using recursive function.
 
-## Algorithm:
-# STEP 1 :
+# Algorithm:
+## STEP 1 :
 Create a method (ReverseNumber) that takes an integer as input and returns its reversed form.
 
-# STEP 2 :
+## STEP 2 :
 Check if the number is 0. If so, return the reversed number.
 
-# STEP 3 :
+## STEP 3 :
 Use modulo operator (%) to get the last digit of the number.
 
-# STEP 4 :
+## STEP 4 :
 Multiply the current reversed number by 10 and add the last digit.
 
-# STEP 5 :
+## STEP 5 :
 Call the method with the remaining digits by dividing the number by 10.
 
-## Program:
+# Program:
 Developed by: Vinush.CV
 Reg no: 212222230176  
 
@@ -57,12 +57,12 @@ namespace program11{
     }
 }
 ```
-## Output:
+# Output:
 
 ![image](https://github.com/vinushcv/19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function/assets/113975318/17e17727-0c3f-4766-8782-8134807075b9)
 
 
-## Result:
+# Result:
 The program for reverse a number using recursion was executed successfully.
 
 
